@@ -1,6 +1,6 @@
 # Sealed Network - Programming Test
 
-## Prequisities
+## Prerequisities
 
 Make sure sqlite3 can run on your device, you need to install following:
 
